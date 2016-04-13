@@ -1,13 +1,13 @@
-package Round09Class;
+package Round09ClassObject;
 
 /**
  * Created by NCL on 2016-04-11.
  */
-public class Ex01Calss {
+public class Ex01Class {
     private int[] sub;  //Field 변수
     private float avg;
 
-    public Ex01Calss() { //Construct 생성장
+    public Ex01Class() { //Construct 생성장
         sub = new int[4];
         avg = 0.0f;
     }

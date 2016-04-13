@@ -1,4 +1,4 @@
-package Round09Class;
+package Round09ClassObject;
 
 /**
  * Created by NCL on 2016-04-11.
